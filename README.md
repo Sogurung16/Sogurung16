@@ -2,4 +2,4 @@
 
 I am interested in Java projects.
 
-You can reach me via email: sogurung16@gmail.com
+You can reach me via email: sonamtmgrg@gmail.com
