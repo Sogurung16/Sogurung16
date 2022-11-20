@@ -1,4 +1,4 @@
-👋 Hello! My name is Sonam Gurung. I am currently working at Sparta Global as a Performance Test Consultant.
+👋 Hello! My name is Sonam Gurung. I am currently working at Cassini Systems as a QA Engineer.
 
 I am interested in Java projects.
 
